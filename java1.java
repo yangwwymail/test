@@ -1,7 +1,7 @@
 package cn.yang.hashMapSort;
 
 public class User {
-    private String name;
+    private String name="修改";
     private int age;
 
     public User(String name, int age) {
